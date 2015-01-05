@@ -336,7 +336,7 @@
                     <img src="assets/theme/images/portfolio/normanblack.jpg" alt="">
                     <div class="hover">
                       <div class="link-btns">
-                        <a href="assets/theme/images/portfolio/p1.png" title="pic 02" class="galery-item" ><i class="fa fa-search-plus"></i></a>
+                        <a href="assets/theme/images/portfolio/normanblack.jpg" title="normanblack" class="galery-item" ><i class="fa fa-search-plus"></i></a>
                         <a href="http://normanblackgolf.com"><i class="fa fa-link"></i></a>
                       </div>
                       <a href="http://normanblackgolf.com" class="project-title">Norman Black Portfolio</a>
@@ -347,13 +347,13 @@
               <div class="col-md-4 col-sm-6">
                 <div class="box-work">
                   <div class="work-preview">
-                    <img src="assets/theme/images/portfolio/p2.jpg" alt="">
+                    <img src="assets/theme/images/portfolio/atlantacode.png" alt="">
                     <div class="hover">
                       <div class="link-btns">
-                        <a href="assets/theme/images/portfolio/p2.jpg" title="pic 02" class="galery-item"><i class="fa fa-search-plus"></i></a>
+                        <a href="assets/theme/images/portfolio/atlantacode.png" title="atlantacode" class="galery-item"><i class="fa fa-search-plus"></i></a>
                         <a href="portfolio-detail.html"><i class="fa fa-link"></i></a>
                       </div>
-                      <a href="#" class="project-title">Project Title</a>
+                      <a href="http://atlantacode.com" class="project-title">Atlanta Code</a>
                     </div>
                   </div>
                 </div>
