@@ -222,7 +222,7 @@
                   <p class="font-alt color-dark">BS Computer Information Systems</p>
                   <p>Bachelors program focused on business systems development. This included learning and implementing 
                   test business life cycles, developing business application software solutions and database design.</p>
-                  <p class="font-alt color-dark">  1999-2001</p>
+                  <p class="font-alt color-dark">  2012-2015p</p>
                 </div>
               </li>
               
@@ -372,90 +372,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-4 col-sm-6">
-                <div class="box-work">
-                  <div class="work-preview">
-                    <img src="assets/theme/images/portfolio/p4.jpg" alt="">
-                    <div class="hover">
-                      <div class="link-btns">
-                        <a href="assets/theme/images/portfolio/p4.jpg" title="pic 04" class="galery-item"><i class="fa fa-search-plus"></i></a>
-                        <a href="portfolio-detail.html"><i class="fa fa-link"></i></a>
-                      </div>
-                      <a href="#" class="project-title">Project Title</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-6">
-                <div class="box-work">
-                  <div class="work-preview">
-                    <img src="assets/theme/images/portfolio/p6.png" alt="">
-                    <div class="hover">
-                      <div class="link-btns">
-                        <a href="assets/theme/images/portfolio/p6.png" title="pic 05" class="galery-item"><i class="fa fa-search-plus"></i></a>
-                        <a href="portfolio-detail.html"><i class="fa fa-link"></i></a>
-                      </div>
-                      <a href="#" class="project-title">Project Title</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-6">
-                <div class="box-work">
-                  <div class="work-preview">
-                    <img src="assets/theme/images/portfolio/p5.jpg" alt="">
-                    <div class="hover">
-                      <div class="link-btns">
-                        <a href="assets/theme/images/portfolio/p5.jpg" title="pic 06" class="galery-item"><i class="fa fa-search-plus"></i></a>
-                        <a href="portfolio-detail.html"><i class="fa fa-link"></i></a>
-                      </div>
-                      <a href="#" class="project-title">Project Title</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-6">
-                <div class="box-work">
-                  <div class="work-preview">
-                    <img src="assets/theme/images/portfolio/p1.png" alt="">
-                    <div class="hover">
-                      <div class="link-btns">
-                        <a href="assets/theme/images/portfolio/p1.png"  title="pic 07" class="galery-item"><i class="fa fa-search-plus"></i></a>
-                        <a href="portfolio-detail.html"><i class="fa fa-link"></i></a>
-                      </div>
-                      <a href="#" class="project-title">Project Title</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-6">
-                <div class="box-work">
-                  <div class="work-preview">
-                    <img src="assets/theme/images/portfolio/p2.jpg" alt="">
-                    <div class="hover">
-                      <div class="link-btns">
-                        <a href="assets/theme/images/portfolio/p2.jpg"  title="pic 08" class="galery-item"><i class="fa fa-search-plus"></i></a>
-                        <a href="portfolio-detail.html"><i class="fa fa-link"></i></a>
-                      </div>
-                      <a href="#" class="project-title">Project Title</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-6">
-                <div class="box-work">
-                  <div class="work-preview">
-                    <img src="assets/theme/images/portfolio/p3.png" alt="">
-                    <div class="hover">
-                      <div class="link-btns">
-                        <a href="assets/theme/images/portfolio/p3.png" title="pic 09" class="galery-item"><i class="fa fa-search-plus"></i></a>
-                        <a href="portfolio-detail.html"><i class="fa fa-link"></i></a>
-                      </div>
-                      <a href="#" class="project-title">Project Title</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              
             </div>
             <!--BTN SHOW MORE-->
             <div class="box-btn-more"><a href="portfolio-list.html" class="btn btn-flat-line btn-link" id="more-work"> Show More</a></div>
