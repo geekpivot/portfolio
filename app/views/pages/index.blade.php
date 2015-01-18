@@ -222,7 +222,7 @@
                   <p class="font-alt color-dark">BS Computer Information Systems</p>
                   <p>Bachelors program focused on business systems development. This included learning and implementing 
                   test business life cycles, developing business application software solutions and database design.</p>
-                  <p class="font-alt color-dark">  2012-2015p</p>
+                  <p class="font-alt color-dark">  2012-2015 </p>
                 </div>
               </li>
               
