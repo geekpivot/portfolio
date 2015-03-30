@@ -181,9 +181,9 @@
                 <div class="ic"><i class="fa fa-briefcase"></i></div>
                 <div class="number font-alt">01</div>
                 <div class="desc">
-                  <h5 class="text-uppercase color-dark text-bold">Web Developer / Trainer</h5>
-                  <p class="font-alt color-dark">AtlantaCode</p>
-                  <p>Trained students in various technologies such as HTML, CSS, PHP, and Javascript.</p>
+                  <h5 class="text-uppercase color-dark text-bold">Associate Software Engineer</h5>
+                  <p class="font-alt color-dark">Infor</p>
+                  <p>ASP.NET Developer.</p>
                   <p class="font-alt color-dark">  2015-Current</p>
                 </div>
               </li>
